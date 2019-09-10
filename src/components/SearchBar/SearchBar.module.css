@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  background-color: #afcde7;
+  border-radius: 10px;
+}
+.img {
+  width: 30px;
+  height: 30px;
+  padding: 20px;
+}
+
+.input {
+  display: flex;
+  color: #000;
+  border: none;
+  font-size: 16px;
+  background-color: #afcde7;
+}
+.input:focus {
+  outline: none;
+}
